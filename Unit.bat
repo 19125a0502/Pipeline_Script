@@ -1,1 +1,1 @@
-Unit stage of the Project : %date% : %time%
+echo "Unit stage of the Project : %date% : %time%"
